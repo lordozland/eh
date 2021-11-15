@@ -1,0 +1,12 @@
+defaultPortal: Code
+portals:
+  - name: Code
+    portalId: 21007727
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CI75w6TSLxIJAA0AAAAA4A0DGO-aggoguJz_DCju6QwyFDGOH4xqKPNLaT9E4GM6hBY8kuxsOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhR3-_fZOezhkjgpQRjHnGX5WuaQEEoDbmExUgBaAA
+        expiresAt: '2021-11-15T17:07:01.396Z'
+    personalAccessKey: >-
+      CiQ0NzdmN2RlOS1jMDMyLTRkNWYtOTVmNi0xZTIxY2EwYTYxYzQQ75qCChi4nP8MKhkABeaRgjbawefThK98yPaZF_tByunFBuYzSgNuYTE
